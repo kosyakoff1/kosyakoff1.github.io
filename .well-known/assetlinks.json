@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.kosyakoff.foodapp",
+               "sha256_cert_fingerprints": ["8A:95:E0:B5:55:DA:AA:0F:E6:0A:F4:54:B4:6E:10:9A:00:93:8A:EB:9C:2D:FE:4A:E8:CC:25:EA:A7:D1:4B:D5"] }
+}]
